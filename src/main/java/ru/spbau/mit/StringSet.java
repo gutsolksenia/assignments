@@ -1,5 +1,5 @@
 package ru.spbau.mit;
-
+///yee
 public interface StringSet {
     /**
      * Expected complexity: O(|element|)
